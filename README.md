@@ -1,1 +1,1 @@
-# First Class Of AI 
+# Artificial Intelligence Class 
